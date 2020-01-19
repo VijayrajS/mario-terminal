@@ -2,7 +2,7 @@ class Board:
     def __init__(self, length, width):
         """Initializing the board."""
         self.length = length
-        self.width = wiacdth
+        self.width = width
         self._score = 0
         self._coins = 0
         self._start = 0
